@@ -6,14 +6,17 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
+    path: Assets/Scenes/MainMenu.unity
+    guid: e91c7b5e8effd59499e5cd3517aa9d0c
+  - enabled: 1
     path: Assets/Scenes/marker.unity
     guid: 99c9720ab356a0642a771bea13969a05
   - enabled: 1
-    path: Assets/Scenes/marker_less.unity
-    guid: 82374d2053484bc4b9553c7a1647e465
+    path: Assets/Scenes/marker_less_ui.unity
+    guid: 6fdcce9048de9474b8c7eb200c53749d
   - enabled: 1
-    path: Assets/Scenes/MainMenu.unity
-    guid: e91c7b5e8effd59499e5cd3517aa9d0c
+    path: Assets/Scenes/marker_lessporsche.unity
+    guid: 82374d2053484bc4b9553c7a1647e465
   m_configObjects:
     UnityEditor.XR.ARCore.ARCoreSettings: {fileID: 11400000, guid: a23466785ebcd1444bcc593474f43693,
       type: 2}

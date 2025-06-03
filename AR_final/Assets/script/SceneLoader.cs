@@ -12,6 +12,6 @@ public class SceneLoader : MonoBehaviour
     // Method to load Marker-less AR scene
     public void LoadMarkerLessScene()
     {
-        SceneManager.LoadScene("marker_less");
+        SceneManager.LoadScene("marker_less_ui");
     }
 }
